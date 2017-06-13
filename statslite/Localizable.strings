@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  statslite
+
+  Created by Daniel on 12/04/17.
+  Copyright © 2017 Daniel. All rights reserved.
+*/
+
+// Message
+
+"msg_inputCause" = "Ingrese Justificación";
+"msg_notConnectedToInternet" = "No estas conectado a internet";
+"msg_userName_fail" = "Nombre de usuario no existe";
+"msg_userPass_fail" = "Clave de usuario no existe";
+
+"msg_locationServicesDisabled" = "Los servicios de localización están desactivados en el dispositivo. Puedes habilitar el acceso en Ajustes-> Privacidad-> Localidad-> Servicios de Localización";
+
+"msg_errorDenied" = "El acceso al servicio de localización fue negado por el usuario. Puedes autorizar el acceso en Ajustes-> Privacidad-> Localidad-> Servicios de Localización";
+
+"msg_errorNetwork" = "La red no estaba disponible o se ha producido un error de red.";
+
+"msg_errorSignInService" = "El servicio de login no esta disponible o se ha producido un error.";
+
+"msg_errorCheckInService" = "El servicio de marcación no esta disponible o se ha producido un error.";
+"msg_successCheckInService" = "Se realizó la marcación satisfactoriamente.";
+"msg_pickerPhotoCheckIn" = "Para completar esta marcación, debe tomar una foto.";
+"msg_promt_do_checkin" = "Está seguro de realizar la marcación";
+
+"msg_locationServicesDisabled" = "Los servicios de localización están desactivados en el dispositivo. Puedes habilitar el acceso en Ajustes-> Privacidad-> Servicios de Localización";
+
+
+"msg_errorLocationUnknown" = "El servicio de localización no pudo obtener datos de ubicación en estos momentos.";
+
+"msg_locationServicesDenied" = "El acceso al servicio de localización fue negado por el usuario. Puedes autorizar el acceso en Ajustes-> Privacidad-> Servicios de Localización-> Stas Lite";
+
+"msg_cameraServicesDenied" = "El acceso a la Camara fue negado por el usuario. Puedes autorizar el acceso en Ajustes-> Privacidad-> Camara-> Stas Lite";
+
+
+"msg_checkInErrorUploadPhoto" = "No se pudo guardar photo en el servidor";
+"msg_checkInSuccessUploadPhoto" = "Se guardo photo en el servidor";
+
+"msg_successUpdateProfileService" = "Se realizó la actualización satisfactoriamente.";
+
+//Buttons
+"btn_close_label" = "Cerrar";
+"btn_cancel_label" = "Cancelar";
+"btn_ok_label" = "Aceptar";
+"btn_prefs_label" = "Ajustes";
+
+"btn_settings_label" = "Ajustes";
+
+"btn_yes_label" = "Si";
+"btn_no_label" = "No";
